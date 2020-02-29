@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03992f8a-c5b1-4388-a169-2fc684b179db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/BackEnd/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/FrontEnd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/FrontEnd/node_modules/typescript/lib" />
   </component>
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
@@ -61,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582994153154</updated>
-      <workItem from="1582994156989" duration="418000" />
+      <workItem from="1582994156989" duration="1318000" />
     </task>
     <servers />
   </component>
