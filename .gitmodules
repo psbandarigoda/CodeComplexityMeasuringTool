@@ -1,0 +1,3 @@
+[submodule "C.C.M.Tool/FrontEnd"]
+	path = C.C.M.Tool/FrontEnd
+	url = ./
