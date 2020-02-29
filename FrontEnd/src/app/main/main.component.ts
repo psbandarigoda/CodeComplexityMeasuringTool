@@ -39,6 +39,8 @@ export class MainComponent implements OnInit {
     // } else if (button == "Employees") {
     //   this.router.navigate(['/main/employee'])
     // }
+
+    
   }
 
 }

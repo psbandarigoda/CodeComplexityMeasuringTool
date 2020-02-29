@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03992f8a-c5b1-4388-a169-2fc684b179db" name="Default Changelist" comment="backEnd Java">
+    <list default="true" id="03992f8a-c5b1-4388-a169-2fc684b179db" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/main/main.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/app/main/main.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582994153154</updated>
-      <workItem from="1582994156989" duration="2725000" />
+      <workItem from="1582994156989" duration="2974000" />
     </task>
     <task id="LOCAL-00001" summary="add new component">
       <created>1582995820218</created>
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582996646357</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="backEnd Java 1">
+      <created>1582997065524</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582997065524</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,13 +93,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new component" />
     <MESSAGE value="backEnd Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="backEnd Java" />
+    <MESSAGE value="backEnd Java 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="backEnd Java 1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2" timestamp="1582996646268">
+    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2" timestamp="1582997065416">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2/53.27.1313.741@53.27.1313.741" timestamp="1582996646268" />
+    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2/53.27.1313.741@53.27.1313.741" timestamp="1582997065416" />
     <state x="174" y="86" width="1050" height="622" key="DiffContextDialog" timestamp="1582996526760">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
@@ -101,14 +109,14 @@
       <screen x="53" y="27" width="1313" height="741" />
     </state>
     <state x="242" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/53.27.1313.741@53.27.1313.741" timestamp="1582996984560" />
-    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582996303683">
+    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582997110302">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/53.27.1313.741@53.27.1313.741" timestamp="1582996303683" />
-    <state x="299" y="189" width="810" height="415" key="git4idea.merge.GitPullDialog" timestamp="1582995830740">
+    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/53.27.1313.741@53.27.1313.741" timestamp="1582997110302" />
+    <state x="299" y="189" width="810" height="415" key="git4idea.merge.GitPullDialog" timestamp="1582997077079">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state x="299" y="189" width="810" height="415" key="git4idea.merge.GitPullDialog/53.27.1313.741@53.27.1313.741" timestamp="1582995830740" />
+    <state x="299" y="189" width="810" height="415" key="git4idea.merge.GitPullDialog/53.27.1313.741@53.27.1313.741" timestamp="1582997077079" />
     <state x="53" y="42" width="1303" height="708" key="new project wizard" timestamp="1582994195850">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
