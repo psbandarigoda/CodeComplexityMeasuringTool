@@ -1,9 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03992f8a-c5b1-4388-a169-2fc684b179db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/BackEnd/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.C.M.Tool/FrontEnd" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1YUPMm3tfv6xIgZ64OUhEreBUkR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -17,6 +50,23 @@
         <entry key="$PROJECT_DIR$/../../nCinga/Programming/nsp-platform-provisioning-tool" value="PREVIEW" />
       </map>
     </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03992f8a-c5b1-4388-a169-2fc684b179db" name="Default Changelist" comment="" />
+      <created>1582994153154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582994153154</updated>
+      <workItem from="1582994156989" duration="418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="53" y="42" width="1303" height="708" key="new project wizard" timestamp="1582994195850">
