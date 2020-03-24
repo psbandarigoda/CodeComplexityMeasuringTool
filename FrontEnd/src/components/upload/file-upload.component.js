@@ -1,10 +1,9 @@
-import React, { Component } from "react";
-import { MDBContainer, MDBFileInput, MDBBtn } from "mdbreact";
+import React, {Component} from "react";
+import {MDBBtn, MDBCol, MDBContainer, MDBIcon, MDBRow, MDBTable, MDBTableBody, MDBTableHead} from "mdbreact";
 import swal from "sweetalert";
 import axios from "axios";
 import constants from "../../util/constants";
-import { MDBTable, MDBTableBody, MDBTableHead,MDBRow, MDBCol,MDBIcon } from "mdbreact";
-import { Link } from "react-router-dom";
+import {Link} from "react-router-dom";
 
 const File = props => {
   return (
@@ -20,17 +19,17 @@ const File = props => {
             onClick={props.fileDelete}
             className="btn btn-danger btn-sm"
           >
-            {" "}<MDBIcon far icon="trash-alt" />
+            {" "}<MDBIcon far icon="trash-alt"/>
             {" "} Delete{" "}
           </button>
-          <Link to={"/report/" +props.file._id} className="btn btn-primary btn-sm">
-            {" "}<MDBIcon icon="chart-line" />
+          <Link to={"/report/" + props.file._id} className="btn btn-primary btn-sm">
+            {" "}<MDBIcon icon="chart-line"/>
             {" "} Analyse{" "}
-        </Link>
-            <Link to={"/assign/" +props.file._id} className="btn btn-primary btn-sm">
-                {" "}<MDBIcon icon="bug" style={{ color: '#FFF' }} />
-                {" "} Assign{" "}
-            </Link>
+          </Link>
+          <Link to={"/assign/" + props.file._id} className="btn btn-primary btn-sm">
+            {" "}<MDBIcon icon="bug" style={{color: '#FFF'}}/>
+            {" "} Assign{" "}
+          </Link>
         </div>
       </td>
     </tr>
@@ -96,7 +95,7 @@ class FileUpload extends Component {
     let count = 0;
     return this.state.files.map((currentFile, i) => {
       ++count;
-      return <File file={currentFile} key={i} index={count} />;
+      return <File file={currentFile} key={i} index={count}/>;
     });
   }
 
@@ -154,7 +153,7 @@ class FileUpload extends Component {
             </MDBCol>
             <MDBCol md="4">
               <MDBBtn color="primary" onClick={this.onClickUpload} size="sm">
-              <MDBIcon icon="upload" /> Upload
+                <MDBIcon icon="upload"/> Upload
               </MDBBtn>
             </MDBCol>
           </MDBRow>
