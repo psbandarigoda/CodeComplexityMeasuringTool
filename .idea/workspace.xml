@@ -2,98 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03992f8a-c5b1-4388-a169-2fc684b179db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/src/main/resources/tempFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/src/main/resources/tempFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/target/classes/tempFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/target/classes/tempFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/e2e/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/main/main.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/main/main.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/main/main.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/upload/upload.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/upload/upload.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/app/upload/upload.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/css/material-dashboard.min40a0.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/demo/demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/demo/demo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/demo/jquery.sharrre.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/apple-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/bg-pricing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/card-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/card-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/card-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/default-avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/faces/avatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/faces/card-profile1-square.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/faces/marc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/flags/AU.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/flags/BR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/flags/DE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/flags/GB.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/flags/RO.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/flags/US.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/image_placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/lock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/login.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/product1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/product2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/product3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/register.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/sidebar-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/sidebar-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/sidebar-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/img/sidebar-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/core/bootstrap-material-design.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/core/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/core/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/material-dashboard.min40a0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/arrive.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/bootstrap-datetimepicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/bootstrap-notify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/bootstrap-selectpicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/bootstrap-tagsinput.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/chartist.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/fullcalendar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/jasny-bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/jquery-jvectormap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/jquery.bootstrap-wizard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/jquery.dataTables.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/jquery.validate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/nouislider.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/perfect-scrollbar.jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/assets/js/plugins/sweetalert2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/tslint.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +177,7 @@
       <workItem from="1584942926215" duration="9000" />
       <workItem from="1584982076576" duration="1379000" />
       <workItem from="1584983495284" duration="3589000" />
-      <workItem from="1584987315977" duration="7394000" />
+      <workItem from="1584987315977" duration="8370000" />
     </task>
     <task id="LOCAL-00001" summary="add new component">
       <created>1582995820218</created>
@@ -312,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585069324719</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="====== new improvements 24/03/20 ======&#10;Login Done&#10;overall function Done &#10;overall View Done &#10;**Control Structure Function Done**&#10;============= ******** ================">
+      <created>1585069652073</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585069652073</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,17 +241,18 @@
     <MESSAGE value="FEnd" />
     <MESSAGE value="Add new branch Develop" />
     <MESSAGE value="====== 24/03/20 ======&#10;Login Done&#10;file upload Done&#10;overall function Done &#10;overall View Done &#10;**Control Structure Function Done**&#10;====== ******** ======" />
-    <option name="LAST_COMMIT_MESSAGE" value="====== 24/03/20 ======&#10;Login Done&#10;file upload Done&#10;overall function Done &#10;overall View Done &#10;**Control Structure Function Done**&#10;====== ******** ======" />
+    <MESSAGE value="====== new improvements 24/03/20 ======&#10;Login Done&#10;overall function Done &#10;overall View Done &#10;**Control Structure Function Done**&#10;============= ******** ================" />
+    <option name="LAST_COMMIT_MESSAGE" value="====== new improvements 24/03/20 ======&#10;Login Done&#10;overall function Done &#10;overall View Done &#10;**Control Structure Function Done**&#10;============= ******** ================" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584983696289">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
     <state x="550" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/53.27.1313.741@53.27.1313.741" timestamp="1584983696289" />
-    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2" timestamp="1585069324205">
+    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2" timestamp="1585069651743">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2/53.27.1313.741@53.27.1313.741" timestamp="1585069324205" />
+    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2/53.27.1313.741@53.27.1313.741" timestamp="1585069651743" />
     <state x="174" y="86" width="1050" height="622" key="DiffContextDialog" timestamp="1582996526760">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
@@ -384,10 +301,10 @@
       <screen x="53" y="27" width="1313" height="741" />
     </state>
     <state x="295" y="51" width="879" height="691" key="NewModule_or_Project.wizard/53.27.1313.741@53.27.1313.741" timestamp="1584117226625" />
-    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1585069341246">
+    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1585069664984">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/53.27.1313.741@53.27.1313.741" timestamp="1585069341246" />
+    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/53.27.1313.741@53.27.1313.741" timestamp="1585069664984" />
     <state x="481" y="176" width="446" height="440" key="chooseDestDirectoryDialog" timestamp="1583030393546">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
