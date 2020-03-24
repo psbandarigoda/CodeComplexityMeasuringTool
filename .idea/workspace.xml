@@ -268,7 +268,7 @@
       <workItem from="1584942926215" duration="9000" />
       <workItem from="1584982076576" duration="1379000" />
       <workItem from="1584983495284" duration="3589000" />
-      <workItem from="1584987315977" duration="6996000" />
+      <workItem from="1584987315977" duration="7394000" />
     </task>
     <task id="LOCAL-00001" summary="add new component">
       <created>1582995820218</created>
@@ -305,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583031749792</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="====== 24/03/20 ======&#10;Login Done&#10;file upload Done&#10;overall function Done &#10;overall View Done &#10;**Control Structure Function Done**&#10;====== ******** ======">
+      <created>1585069324719</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585069324719</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,17 +324,18 @@
     <MESSAGE value="backEnd Java 1" />
     <MESSAGE value="FEnd" />
     <MESSAGE value="Add new branch Develop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new branch Develop" />
+    <MESSAGE value="====== 24/03/20 ======&#10;Login Done&#10;file upload Done&#10;overall function Done &#10;overall View Done &#10;**Control Structure Function Done**&#10;====== ******** ======" />
+    <option name="LAST_COMMIT_MESSAGE" value="====== 24/03/20 ======&#10;Login Done&#10;file upload Done&#10;overall function Done &#10;overall View Done &#10;**Control Structure Function Done**&#10;====== ******** ======" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584983696289">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
     <state x="550" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/53.27.1313.741@53.27.1313.741" timestamp="1584983696289" />
-    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2" timestamp="1583031749687">
+    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2" timestamp="1585069324205">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2/53.27.1313.741@53.27.1313.741" timestamp="1583031749687" />
+    <state x="144" y="27" width="1121" height="741" key="CommitChangelistDialog2/53.27.1313.741@53.27.1313.741" timestamp="1585069324205" />
     <state x="174" y="86" width="1050" height="622" key="DiffContextDialog" timestamp="1582996526760">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
@@ -376,10 +384,10 @@
       <screen x="53" y="27" width="1313" height="741" />
     </state>
     <state x="295" y="51" width="879" height="691" key="NewModule_or_Project.wizard/53.27.1313.741@53.27.1313.741" timestamp="1584117226625" />
-    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1583031790408">
+    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1585069341246">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/53.27.1313.741@53.27.1313.741" timestamp="1583031790407" />
+    <state x="304" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/53.27.1313.741@53.27.1313.741" timestamp="1585069341246" />
     <state x="481" y="176" width="446" height="440" key="chooseDestDirectoryDialog" timestamp="1583030393546">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
